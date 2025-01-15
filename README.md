@@ -19,7 +19,7 @@ Bem-vindo ao repositório da **API Base em .NET**! Este projeto foi desenvolvido
 ## 📚 **Tecnologias Utilizadas**
 
 - **Linguagem:** C#
-- **Framework:** ASP.NET Core 6.0
+- **Framework:** ASP.NET Core 8.0
 - **ORM:** Entity Framework Core
 - **Banco de Dados:** SQL Server (pode ser substituído por outro, como PostgreSQL ou MySQL)
 - **Documentação:** Swagger/OpenAPI
