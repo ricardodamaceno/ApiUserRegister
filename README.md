@@ -127,5 +127,5 @@ Projeto desenvolvido por **Ricardo**.
 
 Se gostou do projeto ou deseja colaborar, fique à vontade para abrir uma issue ou criar um pull request!
 
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/seu-perfil) ou confira outros projetos no meu [GitHub](https://github.com/seu-usuario).
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ricardo-oliveira-05038123a) ou confira outros projetos no meu [GitHub](https://github.com/ricardodamaceno).
 
